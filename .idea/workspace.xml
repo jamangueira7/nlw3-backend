@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87fa18b7-0fb5-4d39-aeec-3e6c36584934" name="Default Changelist" comment="" />
+    <list default="true" id="87fa18b7-0fb5-4d39-aeec-3e6c36584934" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/OrphanagesController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/OrphanagesController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/database.sqlite" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +15,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iq7nAyrYT7yWyvqWvO3gNemcDt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="D:\desenvolvimento\rocketseat\backend\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -43,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602623432991</updated>
       <workItem from="1602623434054" duration="14738000" />
+      <workItem from="1602780837633" duration="3635000" />
     </task>
     <servers />
   </component>
@@ -62,22 +72,22 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="580" y="159" key="FileChooserDialogImpl/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602704109337" />
-    <state width="981" height="224" key="GridCell.Tab.0.bottom" timestamp="1602704804041">
+    <state width="981" height="224" key="GridCell.Tab.0.bottom" timestamp="1602798154724">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="981" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602704804041" />
-    <state width="981" height="224" key="GridCell.Tab.0.center" timestamp="1602704804041">
+    <state width="981" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602798154724" />
+    <state width="981" height="224" key="GridCell.Tab.0.center" timestamp="1602798154724">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="981" height="224" key="GridCell.Tab.0.center/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602704804041" />
-    <state width="981" height="224" key="GridCell.Tab.0.left" timestamp="1602704804041">
+    <state width="981" height="224" key="GridCell.Tab.0.center/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602798154724" />
+    <state width="981" height="224" key="GridCell.Tab.0.left" timestamp="1602798154724">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="981" height="224" key="GridCell.Tab.0.left/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602704804041" />
-    <state width="981" height="224" key="GridCell.Tab.0.right" timestamp="1602704804041">
+    <state width="981" height="224" key="GridCell.Tab.0.left/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602798154724" />
+    <state width="981" height="224" key="GridCell.Tab.0.right" timestamp="1602798154724">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="981" height="224" key="GridCell.Tab.0.right/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602704804041" />
+    <state width="981" height="224" key="GridCell.Tab.0.right/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1602798154724" />
     <state x="456" y="197" key="run.anything.popup" timestamp="1602712196805">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
