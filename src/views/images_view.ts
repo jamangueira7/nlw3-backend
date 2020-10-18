@@ -6,6 +6,7 @@ export default {
         return {
             id: image.id,
             url: `http://localhost:3333/uploads/${image.path}`,
+            adaptada: `http://192.168.0.44:3333/uploads/${image.path}`,
         };
     },
 
