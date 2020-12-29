@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="87fa18b7-0fb5-4d39-aeec-3e6c36584934" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/OrphanagesController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/OrphanagesController.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/database.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/images_view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/images_view.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="D:\desenvolvimento\rocketseat\backend\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\desenvolvimento\rocketseat\nlw3-backend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,6 +52,9 @@
       <updated>1602623432991</updated>
       <workItem from="1602623434054" duration="14738000" />
       <workItem from="1602780837633" duration="6221000" />
+      <workItem from="1602988270028" duration="1838000" />
+      <workItem from="1603109999604" duration="279000" />
+      <workItem from="1609250831550" duration="671000" />
     </task>
     <servers />
   </component>
