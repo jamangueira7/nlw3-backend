@@ -31,7 +31,7 @@ API Happy para agendamento de visitas a orfanatos.
 
 ## 👩🏿‍💻 Rotas
 
-- **`POST /orphanages`**: Rota para cadastra orfanatos;
+- **`POST /orphanages`**: Rota para cadastrar orfanatos;
 Envio
 ```
 name=Lar dos meninos 3
